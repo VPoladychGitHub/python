@@ -1,4 +1,4 @@
-# 1 Реализовать функию parse
+# 1 Реализовать функию parse   1111
 
 # assert parse('https://example.com/path/to/page?name=ferret&color=purple') == {'name': 'ferret', 'color': 'purple'}
 # assert parse('https://example.com/path/to/page?name=ferret&color=purple&') == {'name': 'ferret', 'color': 'purple'}
